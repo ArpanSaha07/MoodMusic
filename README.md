@@ -11,7 +11,7 @@ npm run dev
 
 ```
 cd server
-npm run serer
+npm run server
 ```
 
 Write a block of text and press enter
